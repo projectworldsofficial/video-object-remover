@@ -1,0 +1,67 @@
+🎉 Release: Video Object Remover – Frame Accurate Edition (v1.0)
+📅 Date: June 27, 2025
+🔖 Version: 1.0 Stable
+👨‍💼 Author: Project Worlds (https://projectworlds.in)
+
+---
+
+🚀 What's New in v1.0
+
+✅ Initial public release of our free and open-source video object removal tool!
+This version includes all the essential features needed to perform brush-based object removal from videos with frame-level precision.
+
+---
+
+✨ Key Features
+
+- 🎯 Frame-by-frame navigation and preview
+- 🖌️ Adjustable brush-based masking with zoom support
+- 🔁 Two masking modes: "Single Mask" and "Per-Frame Mask"
+- 🧹 OpenCV-based inpainting for object removal
+- 🎞️ Rebuild video using FFmpeg with original frame rate
+- 🧭 Easy navigation: Previous/Next frame buttons
+- 💾 Export cleaned video as `.mp4`
+- ▶️ One-click preview of rebuilt video
+- 📝 Real-time log panel + status bar
+- 🌙 Dark mode professional GUI built with Tkinter
+- 🧑‍💻 Precompiled Windows EXE for non-technical users
+- 🌐 100% free and open-source under MIT License
+
+---
+
+🛠 Technical Stack
+
+- Python 3.10+
+- Tkinter (GUI)
+- OpenCV (object removal)
+- FFmpeg (video extraction & rebuild)
+- Pillow (image rendering)
+- Threading (non-blocking operations)
+
+---
+
+📦 Included Files
+
+- ✅ `VideoObjectRemover.exe` (Windows binary)
+- ✅ `app.py` (full Python source code)
+- ✅ `requirements.txt` (dependencies)
+- ✅ `LICENSE` (MIT License)
+- ✅ `README.md` (documentation)
+- ✅ `/screenshots/` (UI previews and branding)
+- ✅ `/ffmpeg/` (Windows binary for video processing)
+
+---
+
+📺 Stay Connected
+
+- 🔗 Website: https://projectworlds.in
+- 📺 YouTube: https://youtube.com/@projectworlds
+- 📧 Support: support@projectworlds.in
+
+---
+
+✅ This release is verified and production-ready. You are free to use, share, or modify under the MIT License.
+
+Thank you for supporting open source 💖
+
+– Team Project Worlds
