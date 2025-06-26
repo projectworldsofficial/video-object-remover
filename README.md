@@ -15,7 +15,7 @@
 
 <p align="center">
   <a href="https://youtube.com/@projectworlds" target="_blank">
-    <img src="https://img.shields.io/youtube/channel/subscribers/UC7GTJqkr4Yg6NoW88vbd5og?label=Subscribe&style=social" alt="Subscribe on YouTube" />
+    <img src="https://img.shields.io/youtube/channel/subscribers/UCFMkpvtYjSAPXUPjImQK7bg?label=Subscribe&style=social" alt="Subscribe on YouTube" />
   </a>
 </p>
 
